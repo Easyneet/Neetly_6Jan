@@ -1,0 +1,7 @@
+subject,chapter,question,options,correctAnswer,explanation
+Mathematics,Algebra,"Solve for x: 3x + 7 = 22","4,5,6,7",0,"3x + 7 = 22\n3x = 15\nx = 5"
+Mathematics,Geometry,"What is the area of a circle with radius 5 units?","25π,50π,75π,100π",0,"Area of circle = πr² = π(5)² = 25π"
+Physics,Mechanics,"What is the acceleration due to gravity on Earth?","9.8 m/s²,10 m/s²,8.9 m/s²,11 m/s²",0,"The standard acceleration due to gravity on Earth is approximately 9.8 m/s²"
+Physics,Thermodynamics,"What is the first law of thermodynamics?","Energy cannot be created or destroyed,Heat always flows from hot to cold,Entropy always increases,Pressure and volume are inversely proportional",0,"The first law of thermodynamics states that energy cannot be created or destroyed, only transformed from one form to another"
+Chemistry,Organic Chemistry,"What is the functional group in alcohols?","-OH,-COOH,-NH2,-CHO",0,"Alcohols contain the hydroxyl (-OH) functional group"
+Chemistry,Inorganic Chemistry,"What is the pH of a neutral solution at 25°C?","5,6,7,8",2,"A neutral solution has a pH of 7 at 25°C" 
